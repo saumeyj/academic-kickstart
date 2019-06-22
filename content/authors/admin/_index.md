@@ -15,7 +15,7 @@ role: Research Engineer
 # Organizations/Affiliations
 organizations:
 - name: KTH Royal Institute of Technology
-  url: "www.kth.se"
+  url: "http://www.kth.se"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include biosensors, nanotherapeutics and biophysics.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:saumey@kth.se".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SaumeyJain
@@ -65,7 +65,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
+user_groups:`[]`
 - Researchers
 - Visitors
 ---

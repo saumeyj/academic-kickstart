@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   location = "Stockholm, SE"
   date_start = "2018-09-01"
   date_end = "2019-06-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Lorem."""
   
   [[experience]]
   title = "Research Student"
@@ -45,6 +45,6 @@ date_format = "Jan 2006"
   location = "Castelldefels (Barcelona), ES"
   date_start = "2018-06-10"
   date_end = "2018-08-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Lorem"""
 
 +++

@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:saumey@kth.se' 
+  link: mailto:saumey@kth.se
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SaumeyJain
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.in/citations?hl=en&pli=1&user=dEDCH20AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/saumeyj

@@ -65,10 +65,10 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:`[]`
-- Researchers
-- Visitors
----
+# user_groups:`[]`
+# Researchers
+#  Visitors
+%%---
 
 Saumey Jain is a research engineer at the Herland Lab in the Department of Micro and Nano Systems at the KTH Royal Institute of Technology. His research interests include development of novel biosensing modalities, optimization of surface and coordination chemistry and interfacing with living systems. 
 

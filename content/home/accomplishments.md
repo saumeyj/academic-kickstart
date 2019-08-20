@@ -19,33 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+   organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "MIT 15.390x, Entrepreneurship 101: Who is your customer?"
+  url = "https://www.edx.org/course/entrepreneurship-101-who-customer-mitx-15-390x"
+  certificate_url = "https://verify.edx.org/cert/4ae8725da3c84d71b0542d08988fa08d"
+  date_start = ""
   date_end = ""
   description = ""
 
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "GeorgetownX PHLX101-01, Introduction to Bioethics"
+  url = "https://repository.library.georgetown.edu/handle/10822/711046"
+  certificate_url = "https://verify.edx.org/cert/43ba7b411f16495b990afe8affabf0ee"
+  date_start = ""
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
   description = ""
+  
+
 
 +++

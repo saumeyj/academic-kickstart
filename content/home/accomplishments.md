@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   title = "MIT 15.390x, Entrepreneurship 101: Who is your customer?"
   url = "https://www.edx.org/course/entrepreneurship-101-who-customer-mitx-15-390x"
   certificate_url = "https://verify.edx.org/cert/4ae8725da3c84d71b0542d08988fa08d"
-  date_start = ""
+  date_start = "2014"
   date_end = ""
-  description = ""
+  description = "Basics of a successful entrepreneurship venture."
 
 [[item]]
   organization = "edX"
@@ -34,9 +34,9 @@ date_format = "Jan 2006"
   title = "GeorgetownX PHLX101-01, Introduction to Bioethics"
   url = "https://repository.library.georgetown.edu/handle/10822/711046"
   certificate_url = "https://verify.edx.org/cert/43ba7b411f16495b990afe8affabf0ee"
-  date_start = ""
+  date_start = "2014"
   date_end = ""
-  description = ""
+  description = "Learnt about the ethical considerations while undertaking biological research"
   
 
 

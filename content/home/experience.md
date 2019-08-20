@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   location = "Stockholm, SE"
   date_start = "2019-01-14"
   date_end = "2019-06-14"
-  description = """
-  Responsibilities include:
- 
-  """
+  description = """Master thesis titled 'Detection of Biomolecules by an Extended Gate Field Effect Transistor' which was a proof of concept for using EGFET as a pseudo-reference electrode for biosensing."""
 
 [[experience]]
   title = "Student Ambassador"
@@ -36,7 +33,7 @@ date_format = "Jan 2006"
   location = "Stockholm, SE"
   date_start = "2018-09-01"
   date_end = "2019-06-15"
-  description = """Lorem."""
+  description = """Worked as a student ambassador for the Master's Program in Nanotechnology. Point of contact for prospective students and represented the interests of current students in meetings with the administration"""
   
   [[experience]]
   title = "Research Student"
@@ -45,6 +42,6 @@ date_format = "Jan 2006"
   location = "Castelldefels (Barcelona), ES"
   date_start = "2018-06-10"
   date_end = "2018-08-31"
-  description = """Lorem"""
+  description = """Awarded a research fellowship to carry out a research project in Team Wieser, a part of The Super resolution Light microscopy and Nanoscopy (SLN) facility at ICFO. I mainly worked on studying the effect of temperature and chemical cues on the migration of neutrophils."""
 
 +++

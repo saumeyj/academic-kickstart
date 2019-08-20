@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "ICFO-The Institute of Photonic Sciences "
-  organization_url = "www.icfo.eu"
-  title = "ICFO Student Research Fellowship"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-06"
-  date_end = "2018-09"
-  description = ""
+  organization = """ICFO-The Institute of Photonic Sciences """
+  organization_url = """www.icfo.eu"""
+  title = """ICFO Student Research Fellowship"""
+  url = """"""
+  certificate_url = """"""
+  date_start = """2018-06"""
+  date_end = """2018-09"""
+  description = """"""
 
 [[item]]
-  organization = "J.N. Tata Trust"
-  organization_url = "http://www.jntataendowment.org/contact-us"
-  title = "J.N. Tata Endowment Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2017"
-  date_end = "2019"
-  description = ""
+  organization = """J.N. Tata Trust"""
+  organization_url = """http://www.jntataendowment.org/"""
+  title = """J.N. Tata Endowment Scholarship"""
+  url = """"""
+  certificate_url = """"""
+  date_start = """2017"""
+  date_end = """2019"""
+  description = """"""
 
   
 

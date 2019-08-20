@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards and Honors"
 subtitle = ""
 
 # Date format
@@ -19,34 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
+  organization = "ICFO-The Institute of Photonic Sciences "
+  organization_url = "www.icfo.eu"
+  title = "ICFO Student Research Fellowship"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2018-06"
+  date_end = "2018-09"
   description = ""
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
+  organization = "J.N. Tata Trust"
+  organization_url = "http://www.jntataendowment.org/contact-us"
+  title = "J.N. Tata Endowment Scholarship"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2017"
+  date_end = "2019"
   description = ""
 
-  [[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
-
+  
 
 +++

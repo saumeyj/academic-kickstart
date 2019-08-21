@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Stockholm, SE"
   date_start = "2018-09-01"
   date_end = "2019-06-15"
-  description = """Worked as a student ambassador for the Master's Program in Nanotechnology. Point of contact for prospective students and represented the interests of current students in meetings with the administration"""
+  description = """Worked as a student ambassador representing KTH, the Master’s programme in Nanotechnology and the School of Electrical Engineering and Computer Science to prospective students around the world."""
   
   [[experience]]
   title = "Research Student"

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
   url: "www.kth.se"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biosensors, nanotherapeutics and biophysics.
+bio: My research interests include biosensors,materials and bioelectronics
 
 interests:
 - Biosensors
 - Surface Chemistry
-- Nanobiology
+- Nanobiotechnology
 
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
-  #  institution: Stanford University
-   # year: 2012
+#- course: Ph.D. in Electrical Engineering
+   institution: KTH Royal Institute of Technology
+   year: Pursuing
   - course: MSc. in Nanotechnology
     institution: KTH Royal Institute of Technology
     year: 2019
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Saumey Jain is a research engineer at the Herland Lab in the Department of Micro and Nano Systems at the KTH Royal Institute of Technology. His research interests include development of novel biosensing modalities, optimization of surface and coordination chemistry and interfacing with living systems. 
+Saumey Jain is a doctoral student at the Herland Lab in the Department of Micro and Nano Systems at the KTH Royal Institute of Technology. His research interests include development of novel biosensing modalities, optimization of surface and coordination chemistry and interfacing with living systems. 

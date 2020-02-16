@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-#- course: Ph.D. in Electrical Engineering
-   institution: KTH Royal Institute of Technology
-   year: Pursuing
+  - course: Ph.D. in Electrical Engineering
+    institution: KTH Royal Institute of Technology
+    year: Currently pursuing
   - course: MSc. in Nanotechnology
     institution: KTH Royal Institute of Technology
     year: 2019

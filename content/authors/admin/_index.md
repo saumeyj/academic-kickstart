@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Electrical Engineering
-    institution: KTH Royal Institute of Technology
-    year: Currently pursuing
+  # - course: Ph.D. in Electrical Engineering
+   # institution: KTH Royal Institute of Technology
+   # year: Currently pursuing
   - course: MSc. in Nanotechnology
     institution: KTH Royal Institute of Technology
     year: 2019
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Saumey Jain is a doctoral student at the Herland Lab in the Department of Micro and Nano Systems at the KTH Royal Institute of Technology. His research interests include development of novel biosensing modalities, optimization of surface and coordination chemistry and interfacing with living systems. 
+Saumey Jain is a doctoral student at the Herland Lab in the Divison of Micro and Nano Systems at the KTH Royal Institute of Technology. His research interests include development of novel biosensing modalities, optimization of surface and coordination chemistry and interfacing with living systems. 
